@@ -1,4 +1,4 @@
-# n8n-nodes-wsapi-chatwoot
+# n8n Nodes - WSAPI - Chatwoot integration
 
 > Community nodes that bridge **Chatwoot** API channels with your WSAPI messaging instance.  
 > Includes two nodes:
@@ -18,7 +18,7 @@ This integration requires the WSAPI n8n node package to be installed first, as i
    npm version patch
    npm publish --access public   # requires npm account
    ```
-3. In n8n UI → **Settings → Community Nodes → Install**, search `n8n-nodes-wsapi-chatwoot` and install.
+3. In n8n UI → **Settings → Community Nodes → Install**, search `@wsapichat/n8n-nodes-wsapi-chatwoot` and install.
 
 ### Local dev without publishing
 - Build the package: `npm i && npm run build`

@@ -1,6 +1,6 @@
 {
-  "name": "n8n-nodes-wsapi-chatwoot",
-  "version": "0.9.3",
+  "name": "@wsapichat/n8n-nodes-wsapi-chatwoot",
+  "version": "0.9.5",
   "description": "n8n community node to bridge Chatwoot API Channel with your WSAPI Instance. Trigger for Chatwoot callbacks + action to upsert messages into Chatwoot and Update Labels and Attributes.",
   "keywords": [
     "n8n-community-node",
